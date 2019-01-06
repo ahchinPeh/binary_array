@@ -147,3 +147,8 @@ Every struct have to be pre-allocated and value setted before push into binary a
 * it means the value must allocate memory before push into the array. The buffer will keeping the same value until you destroy the array, it will be freed
 
 ### Enjoy your Binary Data searching!!
+
+
+<pre>
+     <script>console.log("HELOLOELOELOELO");</script>
+</pre>
